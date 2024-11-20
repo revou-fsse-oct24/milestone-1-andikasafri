@@ -1,0 +1,14 @@
+{
+  "name": "chilli-bounty",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "npm run build:css",
+    "build": "npm run build:css:prod",
+    "build:css": "tailwindcss -i ./src/styles/style.css -o ./dist/style.css --watch",
+    "build:css:prod": "tailwindcss -i ./src/styles/style.css -o ./dist/style.css --minify"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
