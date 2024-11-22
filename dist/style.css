@@ -1036,8 +1036,8 @@ video {
 }
 
 .text-lg {
-  font-size: 1.125rem;
-  line-height: 1.75rem;
+  font-size: 1rem;
+  line-height: 1.25rem;
 }
 
 .text-sm {
@@ -1367,5 +1367,11 @@ video {
   .md\:text-6xl {
     font-size: 3.75rem;
     line-height: 1;
+  }
+}
+
+@media (max-width: 350px) {
+  .w-5 {
+    width: 0rem;
   }
 }
