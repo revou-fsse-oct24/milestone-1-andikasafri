@@ -1,6 +1,6 @@
 ## 🖼️ Project Preview
 
-[![Chilli Bounty - Rice Bowl Website](src\assets\images\finalized-view.png)](milestone-1-andikasafri.netlify.app)
+[![Chilli Bounty - Rice Bowl Website](src\assets\images\finalized-view.png)](https://milestone-1-andikasafri.netlify.app/)
 
 Click the image above to view the live website!
 
@@ -14,7 +14,7 @@ Click the image above to view the live website!
 
 Hi, I'm Andika Safri. I am thrilled to present my latest project—**Chilli Bounty**, a dynamic and appetizing website for a modern food stall specializing in delectable Rice Bowls and refreshing beverages.
 
-📧 Connect with me:
+📧Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Andika_Safri-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andika-safri/)
 [![Instagram Badge](https://img.shields.io/badge/-Andika_Safri-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dikko_pujangga/)
