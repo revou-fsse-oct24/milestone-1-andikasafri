@@ -86,7 +86,7 @@ Hi, I'm Andika Safri. I am thrilled to present my latest project—**Chilli Boun
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/chilli-bounty.git
+   git clone https://github.com/revou-fsse-oct24/milestone-1-andikasafri.git
    ```
 
 2. Navigate to the project directory:
