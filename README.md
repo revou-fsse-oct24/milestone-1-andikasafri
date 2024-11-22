@@ -1,6 +1,6 @@
 ## 🖼️ Project Preview
 
-[![Chilli Bounty - Rice Bowl Website](src\assets\images\finalized-view.png)](https://milestone-1-andikasafri.netlify.app/)
+![Chilli Bounty - Rice Bowl Website](src\assets\images\finalized-view.png)
 
 Click the image above to view the live website!
 
